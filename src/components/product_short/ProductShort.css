@@ -1,0 +1,10 @@
+.ProductShort{
+    border: 2px solid darkgrey ;
+    margin: 5px;
+    padding: 5px;
+}
+button{
+    background-color: darkgray;
+    color: navy;
+    font-size: 15px;
+}
